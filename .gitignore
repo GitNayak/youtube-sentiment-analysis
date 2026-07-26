@@ -1,0 +1,5 @@
+*.csv
+*.rar
+export_data/
+additional_data/
+.ipynb_checkpoints/
